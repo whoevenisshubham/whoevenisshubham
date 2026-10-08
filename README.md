@@ -1,16 +1,18 @@
-## Hi there 👋
+# Shubham Soni
 
-<!--
-**whoevenisshubham/whoevenisshubham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE (AI & ML) @ VIT Pune '27
 
-Here are some ideas to get you started:
+I like building things, exploring systems and going down technical rabbit holes.
+Most of my work revolves around backend engineering, distributed systems, applied AI and problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Specialist @ Codeforces · Knight @ LeetCode**
+
+1,300+ problems solved · 150+ contests
+
+### Building
+
+[TransactX](https://github.com/whoevenisshubham/TransactX) ·
+[CliniQ](https://github.com/whoevenisshubham/CliniQ)
+
+[Portfolio](https://shubhamsoni.me) ·
+[LinkedIn](https://www.linkedin.com/in/shubham-19-soni/)
