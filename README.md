@@ -1,4 +1,4 @@
-# Shubham Soni
+# Hey, I’m Shubham Soni.
 
 CSE (AI & ML) @ VIT Pune '27
 
