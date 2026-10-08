@@ -9,10 +9,5 @@ Most of my work revolves around backend engineering, distributed systems, applie
 
 1,300+ problems solved · 150+ contests
 
-### Building
-
-[TransactX](https://github.com/whoevenisshubham/TransactX) ·
-[CliniQ](https://github.com/whoevenisshubham/CliniQ)
-
 [Portfolio](https://shubhamsoni.me) ·
 [LinkedIn](https://www.linkedin.com/in/shubham-19-soni/)
